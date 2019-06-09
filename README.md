@@ -1,29 +1,14 @@
 # stock-trader
 
-## Project setup
-```
-npm install
-```
+A stock trader web app made with Vue js, Vuex.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
+[https://vue-stock-trader.surge.sh/](https://vue-stock-trader.surge.sh/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshot
+![alt text](https://raw.githubusercontent.com/arifszn/stock-trader/master/public/assets/Screenshot (01).jpg)
+![alt text](https://raw.githubusercontent.com/arifszn/stock-trader/master/public/assets/Screenshot (02).jpg)
+![alt text](https://raw.githubusercontent.com/arifszn/stock-trader/master/public/assets/Screenshot (03).jpg)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Courtesy
+Maximilian Schwarzmüller (https://academind.com/)
