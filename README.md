@@ -1,6 +1,6 @@
 # stock-trader
 
-A stock trader web app made with Vue js, Vuex and Firebase.
+A stock trader web app made with Vue.js, Vuex and Firebase.
 
 ## Demo
 [https://vue-stock-trader.surge.sh/](https://vue-stock-trader.surge.sh/)
